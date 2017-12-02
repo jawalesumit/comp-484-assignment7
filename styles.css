@@ -1,0 +1,52 @@
+*
+{
+	font-family: 'Roboto', sans-serif;
+}
+
+body
+{
+	background-color: darkgray;
+}
+
+fieldset
+{
+	border: 0.05em solid lightgray;
+}
+
+section
+{
+	float: left;
+	max-width: 300px;
+	background-color: white;
+	margin: auto;
+	padding: 0.6em;
+}
+
+legend
+{
+	font-size: 150%;
+	color: #d00d2d;
+}
+
+input
+{
+	font-weight: bold;
+}
+
+#submit_btn
+{
+    border: 0.05em solid lightgray;
+    border-radius: 0.7em;
+    background: white;
+    height: 2em;
+}
+
+#browser_img
+{
+	width: 1.2em;
+}
+
+#browser_name
+{
+	font-size: 0.7em;
+}
